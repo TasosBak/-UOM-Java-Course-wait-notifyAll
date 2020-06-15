@@ -1,0 +1,14 @@
+{
+  "name": "Messages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "javac Main.java && java Main",
+    "start": "java Main"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
